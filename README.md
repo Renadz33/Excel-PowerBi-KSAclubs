@@ -1,0 +1,3 @@
+# Excel-PowerBi-KSAclubs
+
+https://app.powerbi.com/view?r=eyJrIjoiNmU3Y2IyZjMtZTgxYi00MTVkLWE3ZmEtMjhlMjkzYjIzZDUyIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9
