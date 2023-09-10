@@ -1,6 +1,6 @@
 # Excel-PowerBi-KSAclubs
 
-<img width="655" alt="Screenshot 2023-09-10 020914" src="https://github.com/Renadz33/Excel-PowerBi-KSAclubs/assets/84646898/96be5e6d-57db-43e9-a3c0-3c77aa27720e">
+<img width="655" alt="Screenshot 2023-09-10 031202" src="https://github.com/Renadz33/Excel-PowerBi-KSAclubs/assets/84646898/c46b0aff-0cc8-4e0e-acad-d63a83bcab15">
 
 The first thing I did was filter the data and delete the duplicates. There was blank data in it and I filled it out
 
